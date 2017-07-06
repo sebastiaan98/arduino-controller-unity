@@ -4,4 +4,4 @@ controller
 
 Read out sensors with Arduino, communicate with Unity. 
 
-Proof of concept move X Y axis sensorinput.
+Proof of concept move X Y axis sensor input.
